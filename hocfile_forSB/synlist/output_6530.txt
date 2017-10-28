@@ -1,0 +1,10 @@
+CellSwc[79] CellSwc[75]
+----------
+775 1141 Gap nil 2 8060
+774 1139 Gap nil 3 8061
+784 7651 Chemi ACh 2 8062
+780 7859 Chemi ACh 6 8063
+773 7875 Chemi ACh 2 8064
+772 7576 Chemi ACh 2 8065
+771 7588 Gap nil 1 8066
+778 7716 Chemi ACh 2 8067

@@ -1,0 +1,6 @@
+CellSwc[3] CellSwc[49]
+----------
+237 5627 Chemi GABA 25 5091
+236 5604 Chemi GABA 21 5092
+242 5623 Chemi GABA 6 5093
+243 5902 Gap nil 8 5094

@@ -1,0 +1,27 @@
+CellSwc[28] CellSwc[35]
+----------
+10 244 Chemi ACh 2 3666
+135 141 Chemi ACh 1 3667
+1205 309 Chemi ACh 1 3668
+2846 304 Chemi ACh 1 3669
+7684 368 Chemi ACh 2 3670
+3089 165 Gap nil 1 3671
+1886 270 Chemi ACh 1 3672
+7819 175 Chemi ACh 1 3673
+7778 334 Chemi ACh 1 3674
+137 207 Chemi ACh 2 3675
+7693 191 Chemi ACh 2 3676
+1363 133 Chemi ACh 1 3677
+1362 169 Chemi ACh 2 3678
+1371 233 Gap nil 1 3679
+1358 127 Chemi ACh 1 3680
+0 0 Chemi Ach 1 3681
+10 10 Chemi Ach 1 3682
+20 20 Chemi Ach 1 3683
+30 30 Chemi Ach 1 3684
+40 40 Chemi Ach 1 3685
+50 50 Chemi Ach 1 3686
+60 60 Chemi Ach 1 3687
+70 70 Chemi Ach 1 3688
+80 80 Chemi Ach 1 3689
+90 90 Chemi Ach 1 3690

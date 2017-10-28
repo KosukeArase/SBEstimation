@@ -1,0 +1,6 @@
+CellSwc[46] CellSwc[38]
+----------
+236 5602 Chemi ACh 27 3960
+237 5897 Chemi ACh 32 3961
+243 5616 Gap nil 6 3962
+242 5627 Chemi ACh 15 3963

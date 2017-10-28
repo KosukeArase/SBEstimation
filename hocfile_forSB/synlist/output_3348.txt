@@ -1,0 +1,9 @@
+CellSwc[79] CellSwc[38]
+----------
+773 6235 Chemi ACh 5 4244
+772 6249 Chemi ACh 5 4245
+774 6281 Chemi ACh 3 4246
+780 6245 Chemi ACh 4 4247
+766 1699 Chemi ACh 1 4248
+768 6303 Chemi ACh 1 4249
+804 696 Chemi ACh 1 4250

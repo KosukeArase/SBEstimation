@@ -1,0 +1,6 @@
+CellSwc[46] CellSwc[6]
+----------
+237 5606 Chemi GABA 19 660
+243 5608 Chemi GABA 6 661
+236 5616 Chemi GABA 25 662
+242 5895 Chemi GABA 10 663

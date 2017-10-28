@@ -1,0 +1,6 @@
+CellSwc[3] CellSwc[79]
+----------
+237 825 Gap nil 32 8398
+242 823 Chemi ACh 20 8399
+236 826 Chemi ACh 32 8400
+243 854 Chemi ACh 16 8401

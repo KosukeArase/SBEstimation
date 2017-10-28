@@ -1,0 +1,10 @@
+CellSwc[41] CellSwc[80]
+----------
+3 994 Chemi ACh 4 8556
+1 1003 Chemi ACh 4 8557
+368 1001 Chemi ACh 3 8558
+4 998 Chemi ACh 3 8559
+6 1012 Chemi ACh 1 8560
+367 985 Chemi ACh 1 8561
+7 990 Chemi ACh 2 8562
+366 1008 Chemi ACh 2 8563

@@ -1,0 +1,13 @@
+CellSwc[3] CellSwc[80]
+----------
+247 2000 Chemi ACh 8 8502
+240 2251 Chemi ACh 6 8503
+239 2003 Chemi ACh 6 8504
+233 2013 Gap nil 6 8505
+234 1541 Gap nil 4 8506
+227 2004 Gap nil 7 8507
+246 2029 Chemi ACh 3 8508
+236 1166 Gap nil 77 8509
+243 1169 Chemi ACh 20 8510
+242 1174 Chemi ACh 27 8511
+237 1275 Gap nil 36 8512

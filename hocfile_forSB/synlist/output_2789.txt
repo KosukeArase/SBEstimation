@@ -1,0 +1,8 @@
+CellSwc[36] CellSwc[32]
+----------
+798 5330 Chemi ACh 10 3161
+756 4439 Chemi ACh 3 3162
+741 4493 Chemi ACh 1 3163
+757 1208 Chemi ACh 3 3164
+754 4435 Chemi ACh 2 3165
+758 4504 Chemi ACh 1 3166

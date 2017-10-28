@@ -1,0 +1,23 @@
+CellSwc[40] CellSwc[80]
+----------
+1205 2015 Chemi ACh 5 8535
+1204 2005 Chemi ACh 8 8536
+1209 2001 Chemi ACh 3 8537
+1214 2252 Chemi ACh 4 8538
+1216 2002 Chemi ACh 6 8539
+1206 1999 Chemi ACh 6 8540
+1220 2011 Gap nil 2 8541
+1215 2251 Chemi ACh 2 8542
+1211 1369 Chemi ACh 1 8543
+1222 2000 Chemi ACh 1 8544
+1208 2006 Gap nil 2 8545
+0 0 Chemi Ach 1 8546
+10 10 Chemi Ach 1 8547
+20 20 Chemi Ach 1 8548
+30 30 Chemi Ach 1 8549
+40 40 Chemi Ach 1 8550
+50 50 Chemi Ach 1 8551
+60 60 Chemi Ach 1 8552
+70 70 Chemi Ach 1 8553
+80 80 Chemi Ach 1 8554
+90 90 Chemi Ach 1 8555

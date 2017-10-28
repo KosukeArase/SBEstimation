@@ -1,0 +1,24 @@
+CellSwc[26] CellSwc[33]
+----------
+1309 401 Chemi ACh 2 3309
+13216 304 Chemi ACh 4 3310
+1310 268 Chemi ACh 2 3311
+1011 337 Chemi ACh 1 3312
+1311 339 Chemi ACh 3 3313
+941 373 Chemi ACh 1 3314
+13230 271 Chemi ACh 2 3315
+1251 338 Chemi ACh 1 3316
+13213 305 Chemi ACh 1 3317
+945 303 Chemi ACh 1 3318
+899 306 Chemi ACh 1 3319
+1312 372 Chemi ACh 1 3320
+0 0 Chemi Ach 1 3321
+10 10 Chemi Ach 1 3322
+20 20 Chemi Ach 1 3323
+30 30 Chemi Ach 1 3324
+40 40 Chemi Ach 1 3325
+50 50 Chemi Ach 1 3326
+60 60 Chemi Ach 1 3327
+70 70 Chemi Ach 1 3328
+80 80 Chemi Ach 1 3329
+90 90 Chemi Ach 1 3330

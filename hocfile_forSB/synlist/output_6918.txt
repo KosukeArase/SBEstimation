@@ -1,0 +1,14 @@
+CellSwc[37] CellSwc[80]
+----------
+255 2033 Gap nil 3 8523
+251 2036 Chemi ACh 2 8524
+256 1360 Chemi ACh 2 8525
+249 2030 Gap nil 1 8526
+242 2047 Chemi ACh 2 8527
+240 1370 Gap nil 1 8528
+238 2029 Chemi ACh 2 8529
+236 2050 Gap nil 2 8530
+253 2202 Chemi ACh 2 8531
+241 2038 Chemi ACh 1 8532
+239 1372 Gap nil 1 8533
+248 1365 Chemi ACh 1 8534
